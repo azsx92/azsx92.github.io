@@ -48,6 +48,8 @@ repository               : "https://github.com/azsx92/azsx92.github.io" # Github
 teaser                   : # 폴백일 때 보일 이미지입니다. "assets/images/"로 연결됩니다.
 logo                     : # 화면에 보여지는 logo 이미지입니다. "assets/images"로 세팅합니다.
 masthead_title           : "정리가 재밌는 개발자"     # 화면 title 입니다.
+future                   : true
+published                : true
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
