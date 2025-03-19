@@ -42,7 +42,7 @@ title_separator          : "-"
 subtitle                 : "version 1.0"              # 화면 title 하단에 있는 소제목입니다.
 name                     : "정 평화(Jung PyeongHwa)"      # 화면 하단 영역의 이름입니다.
 description              : "매일 반복하는 공부 습관"   # 설명란입니다. (어디 적용되는지 모르겠네요...) 
-url                      : "https://eona1301.github.io" # 현재의 블로그 url 입니다.
+url                      : "https://azsx92.github.io" # 현재의 블로그 url 입니다.
 baseurl                  : # 폴백(예기치 못한 오류)일 때 연결되는 url입니다.
 repository               : "https://github.com/azsx92/azsx92.github.io" # Github Repo url입니다.
 teaser                   : # 폴백일 때 보일 이미지입니다. "assets/images/"로 연결됩니다.
